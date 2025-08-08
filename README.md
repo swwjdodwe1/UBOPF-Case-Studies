@@ -8,7 +8,7 @@ All scenarios are based on a common test system designed to represent a typical 
 - **18 nodes**
 - **400 V line-to-line voltage**
 - **Radial topology**
-- **17 distribution lines** with typical parameters for low-voltage grids (short lengths, high R/X ratio)
+- **17 distribution lines** with typical parameters for low-voltage grids (high R/X ratio)
 - **Unbalanced single-phase loads**, distributed across the three phases
 - **Distributed photovoltaic generation** connected at various nodes and phases
 - Modeled using a **three-phase unbalanced optimal power flow (UBOPF)** formulation implemented in Julia with JuMP.jl and Ipopt
