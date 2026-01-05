@@ -59,6 +59,7 @@ The main goals of these simulations are:
 - To compare the performance of different **inverter-based voltage control strategies**  
 - To provide insights for the planning and operation of **unbalanced low-voltage networks** with high renewable integration
 
+
 ## Requirements
 
 Make sure you have the following Julia packages installed:
@@ -67,7 +68,12 @@ Make sure you have the following Julia packages installed:
 using Pkg
 Pkg.add("JuMP")
 Pkg.add("Ipopt")
+```
 
 ## Funding
+
 This research was supported by the Madrid Government (Comunidad de Madrid-Spain) under the Multiannual Agreement 2023-2026 with Universidad Politécnica de Madrid, 'Line A - Emerging PIs' (grant number: 24-DWGG5L-33-SMHGZ1).
+
+
+
 
