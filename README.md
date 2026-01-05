@@ -73,7 +73,8 @@ Pkg.add("Ipopt")
 ## Funding
 
 This research was supported by the Madrid Government (Comunidad de Madrid-Spain) under the Multiannual Agreement 2023-2026 with Universidad Politécnica de Madrid, 'Line A - Emerging PIs' (grant number: 24-DWGG5L-33-SMHGZ1).
-!(image.png)
+
+![Logo](image.png)
 
 
 
